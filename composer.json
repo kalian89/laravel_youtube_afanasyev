@@ -17,6 +17,7 @@
         "barryvdh/laravel-ide-helper": "^2.6",
         "beyondcode/laravel-dump-server": "^1.0",
         "filp/whoops": "^2.0",
+        "friendsofphp/php-cs-fixer": "*",
         "fruitcake/laravel-debugbar": "^3.4",
         "fzaninotto/faker": "^1.4",
         "mockery/mockery": "^1.0",
